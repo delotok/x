@@ -1,6 +1,7 @@
 
 Auto Claim Faucethub
 
+
 STEP1
 
 • Akun Faucethub Kamu wajib memiliki akun faucet yang sudah terhubung dengan address walletmu,
@@ -15,6 +16,7 @@ Bila Sudah memiliki ke 2 Syarat itu.
 
 Silahkan lanjut ke STEP2.
 
+
 STEP2
 
 • Buka aplikasi Termux,
@@ -23,11 +25,15 @@ Update internal Termux, Dengan cara CopyPaste Code dibawah ini, kemudian enter.
 
 pkg upgrade && pkg install lynx curl libcurl php php-dev wget w3m
 
+
+
 STEP3
 
 •Install Script Auto Claim Faucet CopyPaste Code dibawah ini, kemudian enter.
 
 cd /sdcard && wget https://cdn.rawgit.com/delotok/x/x/xhub.php
+
+
 
 STEP4
 
@@ -35,11 +41,16 @@ STEP4
 
 cd /sdcard && php xhub.php
 
+
 STEP5
 
-• Video Cara Calim pertama & Cara copy Linknya. Cara Memasang URL Faucet di Termux.
+• Video Cara Calim pertama & Cara copy Linknya. 
 
-Harus ditonton dari awal sampai selesai. (tunggu link update)
+Cara Memasang URL Faucet di Termux.
+
+Harus ditonton dari awal sampai selesai.
+
+(cek di bot telegram : http://t.me/autofaucethubbot klik step5)
 
 STEP6
 
@@ -85,11 +96,11 @@ http://minfaucet1.000webhostapp.com/
 
 http://thatcoinlife.com/
 
-http://superdoggie.tk/.
-
-http://magiccryptoworld
+http://superdoggie.tk/magiccryptoworld
 
 http://superdoggie.tk/MagicDoge/
+
+
 
 STEP7 FINISH.
 
