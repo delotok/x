@@ -46,9 +46,9 @@ STEP5
 
 • Video Cara Calim pertama & Cara copy Linknya. 
 
-Cara Memasang URL Faucet di Termux.
+Cara Mendapatkan & cara memasukan URL Faucet di Termux.
 
-Harus ditonton dari awal sampai selesai.
+Harus ditonton video dari awal sampai selesai.
 
 (cek di bot telegram : http://t.me/autofaucethubbot klik step5)
 
