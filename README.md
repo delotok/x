@@ -1,20 +1,27 @@
 # x
 Auto Claim Faucethub
+
+
 STEP1
 
 • Akun Faucethub
-Kamu wajib memiliki akun faucet yang sudah terhubung dengan address walletmu, 
+Kamu wajib memiliki akun faucet yang sudah terhubung dengan address walletmu,
+
 Jika kamu belum punya silahkan daftar disini https://faucethub.io/signup
 
 • Aplikasi Termux.
+
 Silahkan Download melalui Playstore.
 
 Bila Sudah memiliki ke 2 Syarat itu.
+
 Silahkan lanjut ke STEP2.
 
 
 STEP2
+
 • Buka aplikasi Termux,
+
 Update internal Termux, Dengan cara CopyPaste Code dibawah ini, kemudian enter.
 
 pkg upgrade && pkg install lynx curl libcurl php php-dev wget w3m
