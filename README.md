@@ -47,28 +47,51 @@ STEP6
 
 • Kumpulan Link
 Auto Claim Faucet:
+
 http://japakar.com/autox/
+
 http://japakar.com/blk/
+
 http://japakar.com/dash/
+
 http://japakar.com/doge/
+
 http://japakar.com/eth/
+
 http://japakar.com/ltc/
+
 http://japakar.com/ppc/
+
 http://japakar.com/xpm/
+
 http://japakar.com/pot/
+
 http://japakar.com/auto8/
+
 http://faucet-mining.club/
+
 http://letsgetstarted.cloudminingfromzero.com
+
 http://faucet.0xc9.net/
+
 http://getdogecoin.website/mining/
+
 http://freesatoshi4all.xyz/
+
 http://floodcoins.xyz/
+
 http://getfreebitcoin.ca/multifaucet/
+
 http://multicoinclaimers.tk/
+
 http://minfaucet1.000webhostapp.com/
+
 http://thatcoinlife.com/
-http://superdoggie.tk/
+
+http://superdoggie.tk/.
+
 http://magiccryptoworld
+
 http://superdoggie.tk/MagicDoge/
 
 
@@ -78,8 +101,12 @@ FINISH.
 Belikan Saya Kuaci
 
 BTC : 1EcFy1haeiqTqCHc29HCa88prEb8u3GiTj
+
 ETH : 0x01a77a509407601e496953577ec424955166978b
+
 LTC : LZPd7HiwUNrKBGiBVM27sU3oXE2Kd7Lqiw
+
 DOGE : DCi8dvverG1sDyPe6suFahK4JzpVpC7PQk
+
 
 Thanks.
